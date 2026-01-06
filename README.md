@@ -13,6 +13,11 @@ and outputs standardized quality feedback in Excel format.
 - reviewed_notes_clean.xlsx
 - reviewed_notes_scored.xlsx
 
+## Who This Is For
+- PT clinic owners
+- Rehab Directors
+- Compliance Teams 
+
 ## Use case
 Designed for healthcare QA, documentation review, and AI health consulting workflows.
 
